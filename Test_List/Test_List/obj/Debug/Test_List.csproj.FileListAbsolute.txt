@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\bin\Debug\Test_List.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\bin\Debug\Test_List.exe
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\bin\Debug\Test_List.pdb
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.exe
+C:\Users\iskit\Desktop\Udemy_Project\Test_List\Test_List\obj\Debug\Test_List.pdb
